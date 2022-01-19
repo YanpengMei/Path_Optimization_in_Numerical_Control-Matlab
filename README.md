@@ -1,7 +1,7 @@
 # Path Optimization in CNC
 Author: Yanpeng Mei
 
-Last updated in: 20. Okt. 2021
+Finished on: 20. Okt. 2021
 
 Matlab Version: R2020b
 
