@@ -1,4 +1,5 @@
-# Path Optimization in CNC
+# Path Optimization in Numerical Control
+
 Author: Yanpeng Mei
 
 Finished on: 20. Okt. 2021
