@@ -6,7 +6,7 @@ close all
 % Matlab Version: R2020b
 
 % This is the main file of my thesis "Path optimization when interpolating in Numerical Controls"
-% In my thesis, the whole tool path will be devided into many segments based on the Tuple
+% In my thesis, the whole tool path will be divided into many segments based on the Tuple
 % There are two kinds of segments: iso-parametric segment(when 'u' or 'v' is constant) and non-iso-parametric segment
 % In short: iso-segment and non-iso-segment
 % The toolpath I am considering is a combination of many NURBS-curves(segments)
