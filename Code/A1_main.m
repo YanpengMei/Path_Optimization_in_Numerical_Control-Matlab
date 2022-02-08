@@ -58,7 +58,7 @@ knots{2} = [0 0 0 1 1 1]; % knots along v
 
 
 % 1.3 generate and plot the test NURBS-surface
-% surface          test NURBS-surface
+% surf          test NURBS-surface
 figure
 set(gcf,'outerposition',get(0,'screensize'));
 surf = nrbmak(cp,knots);
